@@ -1,0 +1,13 @@
+STEP 行動変容の段階定義,人数,購入者名 
+STEP 1 無知 (無知な状態),0名,-
+STEP 2 無関心 (6ヶ月以内に行動変容しようと思わない状態),0名,-
+STEP 3 興味 (後回し状態・機会があれば変えたい),0名,-
+STEP 4 関心 (6ヶ月以内に行動を変えたい状態),1名,Client 4 (feruto-san)
+STEP 5 情報収集 (行動を変えようと情報収集している状態),3名,"Client 2 (hiro-san), Client 5 (moeshan-san), Client 6 (kanamaru-san)"
+STEP 6 意思検討 (今後6ヶ月以内に内容を検討している状態),0名,-
+STEP 7 準備 (1ヶ月以内に実行に向けて準備中),3名,"Client 7 (iruka-san), Client 9 (murotako-san), Client 10 (miyus-san)"
+STEP 8 初期 (開始後1ヶ月以内行動を始めた時期),0名,-
+STEP 9 実行 (行動変容しているが持続は6ヶ月未満),0名,-
+STEP 10 定着期（挫折） (ストレスで挫折・途中で諦めた状態（からの再検討）),3名,"Client 1 (Interviewee 1), Client 3 (masumi-san), Client 8 (sum-san)"
+STEP 11 維持 (健全な行動変容が観察され6ヶ月以上継続),0名,-
+STEP 12 挑戦 (持続と自信を持ち続けるか挑戦),0名,-
